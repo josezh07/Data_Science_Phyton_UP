@@ -3,9 +3,13 @@ This is a course in Data Science.
 
 ## List of students
 
-Sanndy Quispe
-David Mejía
-Francesca Ruíz
-Renato Cubas
+1. Sanndy Quispe
+2. David Mejía
+3. Francesca Ruíz
+4. Renato Cubas
 
-
+## List of movies
+1. Duro de matar
+2. Interestelar
+3. Animales Fantasticos
+4. Casa Blanca
