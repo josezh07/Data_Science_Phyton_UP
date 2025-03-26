@@ -26,5 +26,13 @@ This is a course in Data Science.
 3. Piano
 4. Sinfónica
 
+## Actors
+1. Zendaya
+2. Angeline
+3. Adam Sandler
+4. Johnny Depp
+5. Karima Kalmet
+6. Adolfo Chuiman
+7. Magdiel
 
 
