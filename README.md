@@ -33,5 +33,6 @@ This is a course in Data Science.
 4. Johnny Depp
 5. Karima Kalmet
 6. Adolfo Chuiman
+7. Magdiel
 
 
