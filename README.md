@@ -31,6 +31,7 @@ This is a course in Data Science.
 2. Angeline
 3. Adam Sandler
 4. Johnny Depp
-
+5. Karima Kalmet
+6. Adolfo Chuiman
 
 
